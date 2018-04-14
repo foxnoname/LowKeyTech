@@ -1807,11 +1807,13 @@
 		}
 
 	body, input, select, textarea {
-		color: #474747;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 16pt;
-		font-weight: 300;
-		line-height: 1.65em;
+	color: #474747;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16pt;
+	font-weight: 300;
+	line-height: 1.65em;
+	background-image: url(../../images/Black%20and%20Blue%20Background.jpg);
+	background-repeat: no-repeat;
 	}
 
 	a {
@@ -1842,10 +1844,10 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: inherit;
-		font-weight: 600;
-		line-height: 1.75em;
-		margin-bottom: 1em;
+	color: inherit;
+	font-weight: 600;
+	line-height: 1.75em;
+	margin-bottom: 0em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2342,8 +2344,11 @@
 	}
 
 		#header h1 {
-			padding: 0 0 2.75em 0;
-			margin: 0;
+	margin: 0;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 33px;
+	padding-left: 0;
 		}
 
 			#header h1 a {
@@ -2475,12 +2480,12 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
-		background-position: center center;
-		background-size: cover;
-		height: 28em;
-		text-align: center;
-		position: relative;
+	background-size: cover;
+	height: 9em;
+	text-align: center;
+	position: relative;
+	overflow: visible;
+	visibility: visible;
 	}
 
 		#banner header {
@@ -2626,7 +2631,7 @@
 		/* Banner */
 
 			#banner {
-				height: 24em;
+
 			}
 
 	}
@@ -2670,7 +2675,7 @@
 		/* Banner */
 
 			#banner {
-				height: 20em;
+
 			}
 
 		/* Wrapper */
