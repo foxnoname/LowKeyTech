@@ -3163,13 +3163,10 @@
 	height: 100%;
 	width: 100%;
 }
-#imagewrapper {
-	height: 100%;
-	width: 100%;
-}
-.centered {
+
+.centeredtop {
 	position: absolute;
-	top: 50%;
+	top: 37.5%;
 	left: 37.5%;
-	/*transform: translate(-100%, -50%);*/
+	/*transform: translate(-50%, -50%);*/
 }
