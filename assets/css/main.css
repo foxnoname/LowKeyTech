@@ -1862,11 +1862,14 @@
 			font-style: normal;
 			font-weight: 300;
 		}
+	h1 {
+		font-family: "Comfortaa", cursive;
+	}
 
 	h2 {
-	font-size: 1.75em;
-	letter-spacing: -0.025em;
-	font-family: "Do Hyeon", sans-serif;
+		font-size: 1.75em;
+		letter-spacing: -0.025em;
+		font-family: "Comfortaa", cursive;
 	}
 
 	h3 {
