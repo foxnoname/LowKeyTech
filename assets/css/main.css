@@ -1864,8 +1864,9 @@
 		}
 
 	h2 {
-		font-size: 1.75em;
-		letter-spacing: -0.025em;
+	font-size: 1.75em;
+	letter-spacing: -0.025em;
+	font-family: "Do Hyeon", sans-serif;
 	}
 
 	h3 {
@@ -3165,4 +3166,10 @@
 #imagewrapper {
 	height: 100%;
 	width: 100%;
+}
+.centered {
+	position: absolute;
+	top: 50%;
+	left: 37.5%;
+	/*transform: translate(-100%, -50%);*/
 }
