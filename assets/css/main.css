@@ -3183,13 +3183,13 @@
 	bottom: 220px;
 	text-align:center;
 	right:5px;
-	margin-bottom:-480px;
+	margin-bottom:-660px;
 	
 }
 
 .centeredtop {
 	position: relative;
 	z-index: 2;
-	bottom: 190px;
+	bottom: 250px;
 	margin-bottom: -160px;
 }
