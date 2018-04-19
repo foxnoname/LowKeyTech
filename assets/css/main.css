@@ -1873,6 +1873,7 @@
 	  	letter-spacing: -0.025em;
 	  	font-family: "Comfortaa", cursive;
 	  	color: #FFF;
+		margin-bottom: -12px;
 	}
 
 	h3 {
@@ -3180,7 +3181,7 @@
 	height: 100%;
 	width: 100%;
 	
-	bottom: 280px;
+	bottom: 240px;
 	text-align:center;
 	right:11px;
 	margin-bottom:-660px;
@@ -3190,6 +3191,6 @@
 .centeredtop {
 	position: relative;
 	z-index: 2;
-	bottom: 250px;
+	bottom: 150px;
 	margin-bottom: -160px;
 }
