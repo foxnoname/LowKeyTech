@@ -3197,7 +3197,7 @@
 	display:inline;
 	margin-top:85px;
 
-	right:2.5%
+	right:3%
 }
 
 #imageAQ5Case {
@@ -3210,11 +3210,13 @@
 }
 
 #imageAQ3Button {
-	right:13%;
+	width: auto;
+	right:11%;
 }
 
 #imageAQ5Button {
-	left:13%;
+	width: auto;
+	left:11%;
 }
 
 .textTitle {
