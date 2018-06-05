@@ -3193,19 +3193,20 @@
 }
 
 #imageAQ3Case {
-	position:absolute;
+	width:auto;
 	display:inline;
 	margin-top:85px;
 
-	left:3.3%;
+	right:2.5%
 }
 
 #imageAQ5Case {
+	width:auto;
 	display:inline;
 	margin-top:85px;
 
 	margin-bottom: 1%;
-	left:25%;
+	left:3%;
 }
 
 #imageAQ3Button {
