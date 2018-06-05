@@ -3198,6 +3198,13 @@
 	line-height:1.3;
 }
 
+.buttonBottom {
+	overflow:visible;
+	position:relative;
+
+	margin-left: 20%;
+}
+
 .imageLeft {
 	overflow:visible;
 	position:relative;
