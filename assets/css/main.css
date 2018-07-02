@@ -3185,7 +3185,7 @@
 	height: 100%;
 	width: 100%;
 
-	bottom: 220px;
+	bottom: 215px;
 	text-align:center;
 	right:11px;
 	margin-bottom:-660px;
@@ -3193,11 +3193,12 @@
 }
 
 #imageAQ3Case {
+	position:relative;
 	width:auto;
 	display:inline;
 	margin-top:85px;
 
-	right:3%
+	right:2.8%
 }
 
 #imageAQ5Case {
@@ -3210,8 +3211,10 @@
 }
 
 #imageAQ3Button {
+	position:relative;
 	width: auto;
 	right:11%;
+	z-index: 100;
 }
 
 #imageAQ5Button {
