@@ -1839,6 +1839,7 @@
 
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
+		font-family: "Roboto";
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3214,6 +3215,11 @@
 #imageAQ5Button {
 	width: auto;
 	left:11%;
+}
+
+.centeredParagraph {
+	margin-left: 310px;
+	margin-right: 310px;
 }
 
 .textTitle {
